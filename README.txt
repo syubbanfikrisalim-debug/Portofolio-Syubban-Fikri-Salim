@@ -1,0 +1,1 @@
+Unggah foto profil dan CV PDF ke folder ini. Nama file yang dipakai: foto-syubban.jpg dan CV-Syubban-Fikri-Salim.pdf
